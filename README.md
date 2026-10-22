@@ -18,7 +18,7 @@ The experiment assigned **64,000 customers** to one of three groups: **Men's Ema
 
 ## Dataset
 
-**Source:** [Kevin Hillstrom — MineThatData E-Mail Analytics and Data Mining Challenge (2008)](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html)
+**Source:** [Kevin Hillstrom - MineThatData E-Mail Analytics and Data Mining Challenge (2008)](https://blog.minethatdata.com/2008/03/minethatdata-e-mail-analytics-and-data.html)
 
 The dataset contains customer information recorded before the campaign (such as previous purchase history and shopping channel), randomized email assignment, and customer outcomes measured over the following **two weeks**.
 
@@ -37,7 +37,7 @@ The dataset contains customer information recorded before the campaign (such as 
 
 **Primary metric:** Incremental spending per assigned customer, calculated as:
 
-`Average spending in email group − Average spending in No Email group`
+`Average spending in email group - Average spending in No Email group`
 
 The control group matters because customers may buy products even without receiving a promotional email. Random assignment makes the group comparison informative about the effect of being assigned an email.
 
